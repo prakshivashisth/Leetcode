@@ -8,3 +8,7 @@ def countDigits(num):
 num = int(input("Enter a digit: "))
 result = countDigits(num)
 print(result)
+
+
+
+
